@@ -1,2 +1,2 @@
-# EccomerceFinal
-Atividade Final Eccomerce
+# EcommerceFinal
+Atividade Final Ecommerce
