@@ -1,1 +1,2 @@
-# EccomercFinal
+# EccomerceFinal
+Atividade Final Eccomerce
